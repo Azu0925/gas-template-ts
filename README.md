@@ -2,8 +2,7 @@
 GoogleAppsScriptのclaspでの開発テンプレート
 - TypeScript
 - [google/clasp](https://github.com/google/clasp)
-  
-まだ作ってる途中だよ  
+
 
 ## Usage
 1. なにはともあれnpm install
@@ -15,4 +14,5 @@ GoogleAppsScriptのclaspでの開発テンプレート
    ```
    {"scriptId":"ここにidをコピペ"}
    ```
+   
 3. お好みでeslintのrulesを変更
