@@ -1,1 +1,5 @@
-{"scriptId":""}
+{
+  "scriptId":"",
+  "rootDir": "src/",
+  "fileExtension": "ts"
+}
