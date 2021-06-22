@@ -10,9 +10,11 @@ GoogleAppsScriptのclaspでの開発テンプレート
    npm install
    ```
 
-2. GASプロジェクトを作成してscriptIDを.clasp.jsonに追加
+2. .clasp.json.sampleをコピーして.clasp.jsonを作成
+   
+3. GASプロジェクトを作成してscriptIDを.clasp.jsonに追加
    ```
    {"scriptId":"ここにidをコピペ"}
    ```
    
-3. お好みでeslintのrulesを変更
+4. お好みでeslintのrulesを変更
